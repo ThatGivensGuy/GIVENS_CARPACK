@@ -6,10 +6,11 @@ I've decided since there aren't many free FiveM ready car packs out there, to ma
 The next big push will be to go through the GTA V compatible 100 motorcycle pack, make it FiveM ready, and sort through the best ones to put into this pack as well.
 
 The things I PLAN on adding to this on top of the motorcycles are:
-- Add QBCore compatibility files to auto inject the entire pack into your QBCore
+- Add QBCore compatibility files to be able to inject the entire pack into your QBCore ✅
 - Add Images for each Vehicle to be used via vimageCreator
 - Add OkOkVehicleShop Support
-- Add vMenu / ESX Support
+- Add vMenu Support
+- Add ESX Support
 
 DISCLAIMER: All of the files in this pack came from GTA5-Mods, all are FREE assets that I DID NOT create myself;
             Full credit to all of the developers who have a vehicle in this pack.
