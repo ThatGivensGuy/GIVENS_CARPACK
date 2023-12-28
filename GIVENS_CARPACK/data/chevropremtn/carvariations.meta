@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>chevropremtn</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            37 
+            0 
+            0 
+            0 
+            0 
+            22	 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2021145231524_chevropremtn_modkit</Item>
+	      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="999" />        
+		<sirenSettings value="0" />
+	</Item>       
+  </variationData>
+</CVehicleModelInfoVariation>

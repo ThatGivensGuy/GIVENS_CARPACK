@@ -1,0 +1,63 @@
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>lc200</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            7 
+	    8
+	    156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            2
+            7 
+	    8
+	    156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>        
+      </colors>
+      <kits>
+        <Item>633_lc200_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    </variationData>
+</CVehicleModelInfoVariation>

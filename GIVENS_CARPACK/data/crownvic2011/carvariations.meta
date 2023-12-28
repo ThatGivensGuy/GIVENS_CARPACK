@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	     <Item>
+      <modelName>crownvic2011</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            0
+            0
+			0
+			31
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black / Medium Gray -->
+            9
+            9
+            0
+			0
+			5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic -->
+            5
+            5
+            111
+			0
+			5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic / Medium Gray -->
+            5
+            5
+            111
+			0
+			107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- White -->
+            111
+            111
+            0
+			0
+			63
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- White / Medium Gray -->
+            110
+            110
+            0
+			0
+			31
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Light Sapphire Blue Metallic -->
+            65
+            65
+            4
+			0
+			63
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black Sapphire Metallic / Medium Gray -->
+            164
+            164
+            7
+			0
+			65
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Maple Red Metallic -->
+            167
+            167
+            3
+			0
+			5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Gunmetal Metallic -->
+            2
+            2
+            3
+			0
+			5
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>crownvic2011_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="100" />
+          </Item>
+		  <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
