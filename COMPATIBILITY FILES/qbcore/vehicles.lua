@@ -28,7 +28,6 @@
 { model = 'c7',                 name = '2014 Corvette C7 Stingray',         brand = 'Chevrolet',       price = 0,       category = 'CHEVROLET',      type = 'automobile', shop = 'pdm' },
 { model = 'subn',               name = '2016 Surburban',                    brand = 'Chevrolet',       price = 0,       category = 'CHEVROLET',      type = 'automobile', shop = 'pdm' },
 { model = 'silverado',          name = '2017 Silverado 1500 LTZ',           brand = 'Chevrolet',       price = 0,       category = 'CHEVROLET',      type = 'automobile', shop = 'pdm' },
-{ model = 'silv20',             name = '2020 Silverado 1500 LT',            brand = 'Chevrolet',       price = 0,       category = 'CHEVROLET',      type = 'automobile', shop = 'pdm' },
 { model = 'caprice13',          name = '2013 Caprice',                      brand = 'Chevrolet',       price = 0,       category = 'CHEVROLET',      type = 'automobile', shop = 'pdm' },
 { model = 'caprice89w',         name = '1989 Caprice Wagon',                brand = 'Chevrolet',       price = 0,       category = 'CHEVROLET',      type = 'automobile', shop = 'pdm' },
 { model = 'chevropremtn',       name = '2019 Blazer Premier',               brand = 'Chevrolet',       price = 0,       category = 'CHEVROLET',      type = 'automobile', shop = 'pdm' },

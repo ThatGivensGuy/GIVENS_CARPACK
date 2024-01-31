@@ -34,7 +34,6 @@ CarNames = function()
     {'C7', '2014 Chevrolet Corvette C7 Stingray'},
     {'subn', '2016 Chevrolet Suburban'},
     {'silverado', '2017 Chevrolet Silverado 1500 LTZ'},
-    {'silv20', '2020 Chevrolet Silverado 1500 LT'},
     {'caprice13', '2013 Chevrolet Caprice'},
     {'caprice89w', '1989 Chevrolet Caprice Wagon'},
     {'chevropremtn', '2019 Chevrolet Blazer Premier'},
