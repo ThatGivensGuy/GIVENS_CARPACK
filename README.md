@@ -9,7 +9,7 @@ The things I PLAN on adding to this on top of the motorcycles are:
 - Add QBCore compatibility files to be able to inject the entire pack into your QBCore ✅
 - Add Images for each Vehicle to be used via vimageCreator
 - Add OkOkVehicleShop Support
-- Add vMenu Support
+- Add vMenu Support ✅
 - Add ESX Support
 
 DISCLAIMER: All of the files in this pack came from GTA5-Mods, all are FREE assets that I DID NOT create myself;
